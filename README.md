@@ -11,7 +11,6 @@ White Lebel LogNi FinTech Digital Bank Mobile Application Screens.
 
 ![](https://github.com/LogNi-FinTech/mobile-app-screen/blob/main/149517263-9370beec-3500-472f-bd7a-32ebf45ab6dc.jpg)
 
-![](https://github.com/LogNi-FinTech/mobile-app-screen/blob/main/149517322-3655eed5-72b6-47ec-9eba-f324fc7d57a5.jpg)
 
 ![](https://github.com/LogNi-FinTech/mobile-app-screen/blob/main/149517425-61d695f7-cf35-4fa5-a0d3-7f4544f8d8b6.jpg)
 
